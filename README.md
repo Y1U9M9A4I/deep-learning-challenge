@@ -44,6 +44,7 @@ o	What steps did you take in your attempts to increase model performance?
    I did not achieve the target model performance of 75%. My modifications led to a target model performance of 72%, which did not increase in comparison to pre-modification.
    
 3. What steps did you take in your attempts to increase model performance?
+
    I attemped to increase model performance by amending activation functions associated with the layers, as well as modifications in the epoch numbers.
 
 ### Overview ###
